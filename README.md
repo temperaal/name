@@ -1,2 +1,2 @@
 # name
-This program code print terminal My Name! 
+This program code print My Name in terminal! 
